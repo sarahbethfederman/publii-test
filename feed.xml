@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>spectrum</title>
+    <link href="https://sarahbethfederman.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://sarahbethfederman.github.io/publii-test" />
+    <updated>2017-06-05T23:47:06-07:00</updated>
+    <author>
+        <name>Sarah Federman</name>
+    </author>
+    <id>https://sarahbethfederman.github.io/publii-test</id>
+
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>Sarah Federman</name>
+        </author>
+        <link href="https://sarahbethfederman.github.io/publii-test/hi.html"/>
+        <id>https://sarahbethfederman.github.io/publii-test/hi.html</id>
+
+        <updated>2017-06-05T14:36:19-07:00</updated>
+            <summary></summary>
+        <content type="html">hi</content>
+
+    </entry>
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Sarah Federman</name>
+        </author>
+        <link href="https://sarahbethfederman.github.io/publii-test/hello-world.html"/>
+        <id>https://sarahbethfederman.github.io/publii-test/hello-world.html</id>
+
+        <updated>2017-06-05T11:34:18-07:00</updated>
+            <summary></summary>
+        <content type="html">How are you today?</content>
+
+    </entry>
+</feed>

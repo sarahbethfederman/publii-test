@@ -3,7 +3,7 @@
     <title>spectrum</title>
     <link href="https://sarahbethfederman.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://sarahbethfederman.github.io/publii-test" />
-    <updated>2017-06-06T00:02:33-07:00</updated>
+    <updated>2017-06-06T00:03:11-07:00</updated>
     <author>
         <name>Sarah Federman</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://sarahbethfederman.github.io/publii-test/hello-world.html"/>
         <id>https://sarahbethfederman.github.io/publii-test/hello-world.html</id>
+            <category term="Guideline"/>
 
-        <updated>2017-06-06T00:02:26-07:00</updated>
+        <updated>2017-06-06T00:03:05-07:00</updated>
             <summary></summary>
         <content type="html">How are you today?</content>
 
